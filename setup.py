@@ -21,7 +21,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware :: Hardware Drivers']
 
 # Define required packages.
-requires = ['Adafruit_GPIO', 'mock']
+requires = ['Adafruit_GPIO']
 
 
 def read_long_description():
